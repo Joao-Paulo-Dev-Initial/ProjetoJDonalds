@@ -1,7 +1,7 @@
 # Projeto JDonalds
 
 Este projeto utiliza uma abordagem FullStack, usando Banco de Dados (pgAdmin), juntamente 
-do Back-End e o Front-End.
+do Back-End e o Front-End e Sweet Alert para criação de modais.
 
 ## Design do Projeto
 
