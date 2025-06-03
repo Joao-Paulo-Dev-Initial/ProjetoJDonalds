@@ -6,10 +6,10 @@ do Back-End e o Front-End e Sweet Alert para criação de modais.
 ## Design do Projeto
 
 ### Interface principal do Projeto
-![alt text](imgs/image.png)
+![alt text](Front-end/imgs/image.png)
 
 ### Interface(Modal) do Histórico
-![alt text](imgs/imageHistory.png)
+![alt text](Front-end/imgs/imageHistory.png)
 
 ## Funcionalidades
 
